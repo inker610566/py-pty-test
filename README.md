@@ -1,4 +1,3 @@
-py-pty-test
-===========
-
-test code for python pty module
+Known bug for pty-fork
+======================
+	* ptm does not close after bash exit
